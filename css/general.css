@@ -1,0 +1,35 @@
+html {
+    font-family: Baskerville, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #6666ff;
+}
+
+hr {
+    border-bottom: 2px solid #F00;
+}
+
+li { 
+    font-family: Lucida Bright, Baskerville, serif;
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+ol {
+    background-color: #ccffff;
+}
+
+h1 {
+    font-size: 2.5rem;
+    line-height: 3rem;
+    font-weight:600;
+}
+
+li { 
+    color: #F00;
+}
+
+strong {
+    text-shadow: #999 2px 2px; 
+}
